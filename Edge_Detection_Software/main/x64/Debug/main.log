@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\derek\desktop\image_proc\main\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.vcxproj -> C:\Users\Derek\Desktop\Image_Proc\x64\Debug\main.exe
+  main.vcxproj -> C:\Users\Derek\Desktop\Image_Proc\x64\Debug\main.pdb (Partial PDB)
