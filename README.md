@@ -11,5 +11,5 @@ Simply put a .png image in the "Edge_Detection_Software/main" folder, name it
 
 ##Libraries Used
 
-*C++ STL
-*opencv
+* C++ STL
+* opencv
